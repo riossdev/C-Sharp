@@ -11,6 +11,7 @@ namespace First_App
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Word! whit C#");
+            Console.ReadKey();
         }
     }
 }
